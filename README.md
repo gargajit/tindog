@@ -1,5 +1,5 @@
 # tindog
-###A tinder website for dogs. 
+### A tinder website for dogs. 
 
 Meet exciting and new dogs everyday with just some paw-swipes. 
 All types of doggos are finding their partners in crime. Match one today.
